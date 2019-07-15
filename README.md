@@ -1,0 +1,1 @@
+# java_dockerfile_best_practice
